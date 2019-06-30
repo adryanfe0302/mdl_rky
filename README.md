@@ -1,4 +1,6 @@
 # modalrakyat_frontend
+open terminal
+git clone https://github.com/adryanfe0302/modal_rakyat.git
 
 ## Project setup
 ```
@@ -7,23 +9,9 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve / npm run dev
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+open browser http://localhost:5000/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
