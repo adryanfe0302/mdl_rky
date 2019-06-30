@@ -1,6 +1,7 @@
 # modalrakyat_frontend
-open terminal
-git clone https://github.com/adryanfe0302/modal_rakyat.git
+- open terminal
+- cd modal_rakyat
+- git clone https://github.com/adryanfe0302/modal_rakyat.git
 
 ## Project setup
 ```
@@ -11,7 +12,6 @@ npm install
 ```
 npm run serve / npm run dev
 ```
-open browser http://localhost:5000/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
