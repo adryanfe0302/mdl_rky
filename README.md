@@ -1,7 +1,7 @@
 # modalrakyat_frontend
 - open terminal
-- cd modal_rakyat
 - git clone https://github.com/adryanfe0302/modal_rakyat.git
+- cd modal_rakyat
 
 ## Project setup
 ```
